@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1280mm"
+   height="1255.663mm"
+   viewBox="0 0 1280 1255.663"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-2098.9397,-701.93963)">
+    <g
+       id="g1">
+      <path
+         id="path60-8"
+         style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#c59d5f;fill-opacity:1;stroke-width:11.2945;enable-background:accumulate;stop-color:#000000"
+         d="m 2098.9397,701.93963 v 955.54527 h 1018.873 261.127 V 701.93963 Z m 49.8229,49.57865 h 1180.3545 v 856.41632 h -211.3044 -969.0501 z m 709.6996,45.47023 c 0,11.64401 0,11.86607 0,21.34207 25.2861,0.56222 29.6681,2.06636 40.7497,7.53578 9.576,5.64506 16.1866,12.60195 21.5237,23.941 4.7272,10.72201 5.7885,21.45918 3.8408,32.64578 -17.103,82.45806 -23.463,107.21767 -49.4252,209.93606 -30.828,123.4674 -52.1311,194.4593 -86.5825,314.8589 -9.8632,34.4715 -22.7602,81.5335 -39.7497,100.5645 -13.4423,14.5386 -17.1777,19.4718 -37.6346,27.8508 -15.8572,5.1823 -31.9026,5.4478 -50.469,5.6576 0,11.0058 0,12.0607 0,21.3363 l 175.8664,-0.022 c 184.3479,0.3094 118.2075,-0.146 221.358,0.022 103.1517,0.1693 135.1427,-22.832 164.8244,-50.3221 45.8236,-47.9917 57.3041,-111.9385 60.8192,-148.7416 l -9.9413,-0.2558 c -6.4339,31.726 -9.088,41.4572 -17.6027,59.9916 -7.103,16.879 -15.4809,30.8954 -25.4163,43.9552 -10.6535,14.2589 -17.9831,19.9877 -32.1806,31.5505 -21.1988,14.6227 -28.0629,17.9965 -54.8443,26.296 -20.5608,5.1739 -35.0129,6.1619 -62.3181,6.957 0,0 -29.7845,1.101 -63.3395,0.9366 -33.5554,-0.1645 -85.5951,-1.0607 -85.5951,-1.0607 -8.9953,-0.01 -17.0039,-0.7423 -31.3123,-2.0145 -59.0729,-6.8062 -64.9741,-54.468 -60.258,-74.978 l 8.9538,-45.1071 c 44.5849,-180.9097 49.4256,-199.3414 72.6061,-288.8749 27.0232,-104.3731 60.38,-212.87937 81.6291,-251.22432 13.9402,-25.15681 33.2711,-35.65887 37.4286,-37.83232 15.7227,-8.21924 30.5161,-11.35475 61.8195,-13.97644 24.2558,-1.79255 36.2461,-1.86149 72.9631,-2.61589 0,-9.07763 0,-10.02454 0,-18.35162 -131.4919,-0.007 -201.5928,0.0111 -317.7132,0 z m -438.655,0.0876 c -103.1502,-0.16931 -135.1427,22.83782 -164.8229,50.32765 -45.8243,47.99163 -57.3037,111.93868 -60.8199,148.74167 l 9.942,0.25581 c 6.4324,-31.72596 9.0865,-41.45715 17.6023,-59.99156 7.1038,-16.87871 15.4799,-30.89534 25.4155,-43.95514 10.6551,-14.25895 17.9835,-19.98769 32.181,-31.55053 21.1995,-14.62265 28.0641,-17.99655 54.8444,-26.29598 20.5607,-5.17388 35.0129,-6.16767 62.3177,-6.96266 0,0 29.7852,-1.09589 63.3402,-0.9312 33.5547,0.16486 85.5944,1.06073 85.5944,1.06073 8.9968,0.007 16.9999,0.74235 31.3067,2.01449 59.0729,6.80622 64.9801,54.46794 60.2647,74.97791 l -8.955,45.10708 c -44.5837,180.90962 -49.4251,199.34162 -72.606,288.87512 -27.0228,104.373 -60.3786,212.8792 -81.6276,251.2242 -13.9417,25.1567 -33.273,35.6588 -37.4298,37.8322 -15.7227,8.2193 -30.5164,11.3549 -61.8187,13.9765 -24.2558,1.7926 -36.2468,1.8616 -72.9639,2.616 0,9.0776 0,10.0246 0,18.3515 131.4923,0.011 201.5936,-0.011 317.7129,0 0,-11.6439 0,-11.8717 0,-21.3477 -25.2847,-0.5622 -29.6685,-2.0607 -40.749,-7.5302 -9.5756,-5.645 -16.1873,-12.6074 -21.5237,-23.9466 -4.7275,-10.722 -5.7896,-21.459 -3.8418,-32.6458 17.1044,-82.4579 23.4633,-107.212 49.4259,-209.9304 30.8291,-123.4674 52.1318,-194.4592 86.5821,-314.85879 9.8636,-34.47152 22.7561,-81.53354 39.7449,-100.56455 13.4415,-14.53866 17.1828,-19.47182 37.639,-27.85072 15.8576,-5.18235 31.9033,-5.44788 50.4698,-5.65762 0,-11.00588 0,-12.0607 0,-21.33631 l -175.872,0.0222 c -184.3482,-0.30978 -118.2023,0.14638 -221.3532,-0.0222 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90.4972px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0.565614px;text-anchor:middle;fill:#c59d5f;fill-opacity:1;stroke:#c59d5f;stroke-width:1.1316;stroke-opacity:1"
+         x="2749.4043"
+         y="1951.1183"
+         id="text3-7"
+         transform="scale(0.9974951,1.0025112)"><tspan
+           id="tspan2-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90.4972px;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0.565614px;fill:#c59d5f;fill-opacity:1;stroke:#c59d5f;stroke-width:1.1316;stroke-opacity:1"
+           x="2749.687"
+           y="1951.1183"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90.4972px;font-family:'Felix Titling';-inkscape-font-specification:'Felix Titling, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0.565614px;fill:#c59d5f;fill-opacity:1;stroke:#c59d5f;stroke-width:1.1316;stroke-opacity:1"
+   id="tspan4-1">advokátska</tspan> <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90.4972px;font-family:'Felix Titling';-inkscape-font-specification:'Felix Titling, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0.565614px;fill:#c59d5f;fill-opacity:1;stroke:#c59d5f;stroke-width:1.1316;stroke-opacity:1"
+   id="tspan12-4">kancelária</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:181.505px;line-height:1.25;font-family:'Felix Titling';-inkscape-font-specification:'Felix Titling, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:51.0483px;text-anchor:middle;fill:#c59d5f;fill-opacity:1;stroke:#c59d5f;stroke-width:1.13441;stroke-opacity:1"
+         x="2742.186"
+         y="1842.397"
+         id="text1-2"><tspan
+           id="tspan1-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:181.505px;font-family:'Felix Titling';-inkscape-font-specification:'Felix Titling, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:51.0483px;fill:#c59d5f;fill-opacity:1;stroke:#c59d5f;stroke-width:1.13441;stroke-opacity:1"
+           x="2767.7102"
+           y="1842.397">LÁNYIOVÁ</tspan></text>
+    </g>
+  </g>
+</svg>
